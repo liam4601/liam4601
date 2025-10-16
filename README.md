@@ -7,7 +7,7 @@
 
 <br />
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me:
 
 Backend Software Engineer with focus on building scalable systems and microservices architecture. Passionate about clean code, system design, and solving complex technical challenges.
 
