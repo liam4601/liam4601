@@ -16,7 +16,7 @@ Backend Software Engineer with focus on building scalable systems and microservi
 - **Backend:** Node.js, API Design, Microservices
 - **Database:** SQL, NoSQL, Database Architecture
 - **Tools:** Docker, Git, Linux, Cloud Services
-- **Interests:** AI/ML Integration, Trading Systems, SaaS Development
+- **Interests:** Backend Software, Data, SaaS Development, AI/ML Integration, Trading Systems
 
 ### 🌱 Currently Working On
 - Building robust backend systems
