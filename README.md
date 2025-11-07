@@ -36,3 +36,5 @@ Backend Software Engineer with focus on building scalable systems and microservi
 ---
 
 ⭐️ From [liam4601](https://github.com/liam4601)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/devjj2uu2/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/thanhtung_axyz)
