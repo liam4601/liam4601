@@ -1,3 +1,8 @@
+# `$ hi`
+
+
+![hacking yey](https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=liam4601&show_icons=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e&hide_border=true&hide_rank=true" />
 </a>
