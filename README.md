@@ -3,7 +3,7 @@
 
 ![hacking yey](https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=liam4601&show_icons=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e&hide_border=true&hide_rank=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -31,10 +31,13 @@ Backend Software Engineer with focus on building scalable systems and microservi
 ### 📫 Let's Connect
 - 💼 Open to collaboration on backend projects
 - 🚀 Always learning new technologies
-- 📧 Feel free to reach out for interesting projects
+- 📧 Feel free to reach out for interesting projects -->
 
 ---
 
 ⭐️ From [liam4601](https://github.com/liam4601)
+
+---
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/devjj2uu2/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/thanhtung_axyz)
